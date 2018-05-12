@@ -1,0 +1,39 @@
+_repo: Where-the-Path-Breaks_33995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Alice Muriel
+    - Williamson, Mrs. C. N.
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+  - agent_name: Williamson, C. N. (Charles Norris)
+    alias: Williamson, Charles Norris
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3522'
+    url: http://www.gutenberg.org/2009/agents/3522
+description: ''
+gutenberg_issued: '2010-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Near-death experiences -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Love -- Fiction'
+title: Where the Path Breaks
+url: http://www.gutenberg.org/ebooks/33995
